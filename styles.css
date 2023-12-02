@@ -1,0 +1,90 @@
+.logo {
+    width: 128px;
+    padding-top: 15px;
+    padding-left: 74px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 1px 2px #eee;
+}
+
+.top-text {
+    display: flex;
+    margin-right: 90px;
+    color: #666666;
+    cursor: pointer;
+}
+
+.text{
+    padding: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+.second-half {
+    display: flex;
+    justify-content: center;
+}
+
+.center-img{
+    margin-top: 5px;
+    height: 400px;
+    width: 800px;
+}
+
+body div h1{
+    font-family: 'Inter', sans-serif;
+    color: #424242;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+body div p {
+    font-family: 'Inter', sans-serif;
+    color: #424242;
+    font-size: 20px;
+}
+
+.button {
+    border: none;
+    border-radius: 3px ;
+    padding: 8px 28px 8px 28px;
+    color: white;
+    background: #387ED1;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.menu-icon{*/
+/*    width: 20px;*/
+/*    height: 2px;*/
+/*    background-color: black;*/
+/*    margin: 4px 0;*/
+/*}*/
